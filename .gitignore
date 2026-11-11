@@ -1,0 +1,10 @@
+# executaveis
+caixa
+caixa.exe
+*.o
+*.out
+
+# dados gerados em tempo de execucao
+contas.txt
+extrato.txt
+cedulas.txt
